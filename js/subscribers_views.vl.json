@@ -5,7 +5,7 @@
   "title": "Global Subscribers and Video Views on YouTube (2020)",
   "projection": {"type": "equalEarth"},
   "config": {
-    "background": "#87CEEB"  
+    "background": "#808080"  
   },
   "layer": [
     {
